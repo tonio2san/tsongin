@@ -12,6 +12,7 @@
 }
  
 .polaroid img {
+  background-color: #fff;
   border: 10px solid #fff;
   border-bottom: 45px solid #fff;
   -webkit-box-shadow: 3px 3px 3px #777;
@@ -29,5 +30,5 @@
 }
 
 #opinion {
-  background-color: rgba(89, 238, 255, 0.276);
+  background-color: rgba(245, 231, 192, 0.81);
 }
